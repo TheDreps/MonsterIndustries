@@ -1,0 +1,4 @@
+# Config for Monster Industries plugin
+worlds:
+ test:
+   lobby: 0, 70, 0;
